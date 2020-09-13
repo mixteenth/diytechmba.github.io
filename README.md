@@ -26,6 +26,8 @@ MBA has:
     - https://fs.blog/knowledge-project/naval-ravikant/
     - MasterClass: Krugman, Neil Gaimon, Bob Iger, Howard Schultz, Chris Voss, Bob Woodward
     - https://medium.com/@chrisstoneman/diy-mba-my-reading-list-f7699bd7d0c6
+    - Look on bookcase for books that make sense here, even if we haven't read them
+    - Add all tech leadership books (the four we have read recently especially)
     
 **Actual Books or Direct Links**
     - Godel, Escher, Bach
@@ -33,6 +35,7 @@ MBA has:
     - Myths of Innovation, Dance of the Possible
     - https://blog.growthinstitute.com/scale-up-blueprint/10-rockefeller-habits-checklist
     - Thinking: Fast and Slow
+    - Superforecasting
     
 **Categories**
     - Consulting / Leadership
