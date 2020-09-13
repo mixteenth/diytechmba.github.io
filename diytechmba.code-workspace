@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Monokai Dimmed",
+		"search.maintainFileSearchCache": true,
+		"editor.fontFamily": "'Courier Prime', Menlo, Monaco, 'Courier New', monospace",
+		"workbench.preferredLightColorTheme": "Ayu Light",
+		"editor.fontSize": 18
+	}
+}
