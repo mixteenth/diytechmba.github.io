@@ -22,17 +22,32 @@ MBA has:
 - core classes
 - electives
 - capstone project
+- want to make sure it isn't some Valley focused VC or pure entrepreneurship link of thinking (many DIY Tech MBAs are)
 
 ## Category Skeleton
 
 *from academic sources*:
+
+- Accounting
+- Finance
+- Information Technology Management
+- Law & Ethics
+- Marketing
+- Operations Management
+- Organizational Behavior
+- Strategy & Innovation
+- Entrepreneurship
+- Statistics
+- Economics
+- Business Intelligence
+- Risk Management
 
 *mine*:
 - Pure Leadership
 - Technical Leadership
 - Organizations and teams
 - Architecture / Programming Chops
-
+- Writing: key skill is to think, explain, and help understand things at the intersection of biz/tech/strategy/team management; mental models, ability to write, etc.
 - Project Management
     - Making Things Happen
 - History
