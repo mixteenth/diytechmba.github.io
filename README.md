@@ -23,6 +23,23 @@ MBA has:
 - electives
 - capstone project
 
+## Category Skeleton
+
+*from academic sources*:
+
+*mine*:
+- Pure Leadership
+- Technical Leadership
+- Organizations and teams
+- Architecture / Programming Chops
+
+- Project Management
+    - Making Things Happen
+- History
+    - Soul of a new machine, people's history, etc.
+- Ethics / Society
+    - Technopology, other Postman books
+
 ### Books
 
 **Sources**
@@ -36,7 +53,37 @@ MBA has:
 - https://medium.com/@chrisstoneman/diy-mba-my-reading-list-f7699bd7d0c6
 - Look on bookcase for books that make sense here, even if we haven't read them
 - Add all tech leadership books (the four we have read recently especially)
+- Unread books on kindle
+
+**Academic Sources**
+
+### UGA (Strategy Focus)
     
+*ECON 7950 – Competitive Strategy*
+
+> Besanko, D., Dranove,D., Shanley, M., Schaefer, S. Economics of Strategy. Wiley. Any edition from 4th on is fine, but pay attention to chapter content (editions move the chapters around). Main textbook, a must.
+> McAfee, P. Competitive Solutions. Princeton U. Press, 2002. Also a must.
+> Dixit, A., Skeath, S. Games of Strategy. Norton, 1999, 2004. (less important, could skip with good preparation in Game Theory)
+- http://strategytoday.blogspot.com/ (U of Chicago older version of class discussion)
+- https://hbsp.harvard.edu/import/557006 (paywalled case studies)
+
+
+*ENTR 7090: Critical Design Thinking*
+
+> Critical Thinking: 10th Edition, Brooke Noel Moore and Richard Parker (Optional)
+> Thinking Fast and Slow, Daniel Kahneman, 2011
+> Change By Design: How Design Thinking Transforms Organizations and Inspires Innovation, Tim Brown with Barry Katz
+
+### GA Tech
+
+**General: many course descriptions with media links are here**
+
+- https://pe.gatech.edu/sites/pe.gatech.edu/files/Mkg-LPs/OMSA/OMS-Analytics-Spring-2019-Course-List-With-Previews.pdf
+
+*MGT6754 - Financial Accounting*
+
+- https://mediaspace.gatech.edu/playlist/dedicated/70573901/1_pnwv4tn0/1_2rfcvly8
+
 **Actual Books or Direct Links**
 
 - Godel, Escher, Bach
@@ -45,6 +92,12 @@ MBA has:
 - https://blog.growthinstitute.com/scale-up-blueprint/10-rockefeller-habits-checklist
 - Thinking: Fast and Slow
 - Superforecasting
+- Entreleadership
+- Michael Lopp - Art of Leadership, Managing Humans, Being Geek
+- The Manager's Path
+- The Elegant Puzzle
+- Code
+- The Build Trap
     
 **Categories**
 
@@ -62,3 +115,10 @@ MBA has:
     - Thinking in Systems
     - The Great Mental Models
     - Superthinking
+
+## Ongoing Practice
+
+- Increment
+- Harvard Business Review (get subscription?) https://hbr.org/
+- Friday learning sessions
+- Book a week, forever
