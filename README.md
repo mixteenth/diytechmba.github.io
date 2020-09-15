@@ -41,6 +41,11 @@ An MBA program has:
 - Economics
 - Business Intelligence
 - Risk Management
+- Tech Core
+    - DevOps
+    - Data
+    - Business Analytics
+    - Product Management
 
 ### Sources to Add
 
@@ -82,63 +87,120 @@ An MBA program has:
 
 - https://mediaspace.gatech.edu/playlist/dedicated/70573901/1_pnwv4tn0/1_2rfcvly8
 
+### CMU Masters in Product Management
+
+- https://www.cs.cmu.edu/master-science-product-management
+
+### NYU Tech MBA
+
+- http://www.stern.nyu.edu/programs-admissions/tech-mba/program
+
+### Cornell Tech MBA
+
+- https://tech.cornell.edu/programs/masters-programs/johnson-cornell-tech-mba
+
 ## Skeleton
 
 - Pure Leadership
-    - Military books
-    - Peter Druker: Effective Executive
+    - [ ] The Captain Class
+    - [ ] Turn The Ship Around
+    - [ ] Small Unit Leadership
+    - [ ] Peter Druker: Effective Executive
 - Technical Leadership
-    - Becoming a Technical Leader
-    - The Lopp trilogy: Art of Leadership, Managing Humans, Being Geek
-    - The Manager's Path
-    - The Elegant Puzzle
+    - [ ] Becoming a Technical Leader
+    - [ ] Art of Leadership
+    - [ ] Managing Humans
+    - [ ] Being Geek
+    - [ ] The Manager's Path
+    - [ ] The Elegant Puzzle
+    - [ ] Debugging Teams
+    - [ ] Beautiful Teams
 - Organizations and Teams: how people work
-- Architecture / Programming Chops, 2 levels understanding
-- Writing: key skill is to think, explain, and help understand things at the intersection of biz/tech/strategy/team management; mental models, ability to write, etc.
+    - [ ] Creativity Inc.
+    - [ ] Measure what Matters
+    - [ ] What You Do is Who You Are
+    - [ ] The Hard Thing about Hard Things
+    - [ ] The Rockefeller Habits
+    - [ ]  Scaling Up
+- Startups
+    - [ ] The Lean Startup
+    - [ ] Zero to One
+    - [ ] High Growth Handbook
+    - [ ] The Hard Thing about Hard Things
+    - [ ] Blitzscaling
+- Experiences
+    - [ ] Lost and Founder
+    - [ ] Bad Blood
+    - [ ] Shoe Dog
+    - [ ] Principles
 - Product Management
-    - Build Trap
+    - [ ] Build Trap
+    - [ ] Loops
 - Project Management
-    - Making Things Happen
-- History
-    - Soul of a new machine, people's history, etc.
+    - [ ] Making Things Happen
 - Ethics / Society
-    - Technopology, other Postman books
-- Organization
-    - rockefeller-habits
-- Chops
-    - Godel, Escher, Bach
-    - Code
+    - [ ] Technopology
+    - [ ] Amusing Ourselves to Death
+- Pure Tech
+    - [ ] Godel, Escher, Bach
+    - [ ] Code
+    - [ ] Beautiful Code
+- Design
+    - [ ] The Design of Everyday Things
+    - [ ] How Design Moves the World
+    - [ ] 
 - Entrepreurship
     - Entreleadership
 - Innovation + Creativity
-    - Myths of Innovation
-    - Dance of the Possible
-    - Show Your Work, Steal like an artist (and others)
-    - War of Art
-- Product Management
-    - The Build Trap
-- Thinking
-    - Thinking: Fast and Slow
-    - Superforecasting
+    - [ ] Myths of Innovation
+    - [ ] Dance of the Possible
+    - [ ] Show Your Work
+    - [ ] Steal like an Artist
+    - [ ] War of Art
 - Consulting / Leadership
-    - Patrick Leocini: all of them, all of them
-    - Secrets of Consulting
+    - [ ] The Advantage
+    - [X] The Motive
+    - [ ] The Ideal Team Player
+    - [X] The Five Dysfunctions of a Team
+    - [ ] The Truth about Employee Engagement
+    - [X] Death by Meeting
+    - [X] Silos, Politics, and Turf Wars
+    - [X] The Four Obsessions of an Extraordinary Executive
+    - [X] The Five Temptations of a CEO
+    - [X] Getting Naked
+    - [X] Secrets of Consulting
 - Software Development / Design
-    - Programming Pearls
-    - Code Complete
+    - [ ] Programming Pearls
+    - [X] Code Complete
 - Students of history, students of failure
-    - The Bug author: Ellen Ullman: Life in Code: A Personal History of Technology
-    - Soul of a New Machine
+    - [X] Life in Code: A Personal History of Technology
+    - [X] The Bug
+    - [X] Soul of a New Machine
+    - [ ] Dealers of Lightning
 - Self-Awareness and EQ
-    - https://hbr.org/2018/01/self-awareness-can-help-leaders-more-than-an-mba-can
-    - Leadership Traps
-    - References from The Manager's Path
-    - On Managing Yourself
-    - Emotional Agility
-- Systems / Thinking
-    - Thinking in Systems
-    - The Great Mental Models
-    - Superthinking
+    - [ ] https://hbr.org/2018/01/self-awareness-can-help-leaders-more-than-an-mba-can
+    - [X] Leadership Traps
+    - [ ] References from The Manager's Path
+    - [ ] HBR: On Managing Yourself
+    - [ ] Emotional Agility
+    - [ ] Mindset
+    - [ ] Atomic Habits
+- Strategy
+    - [ ] Your Next 5 Moves
+    - [ ] Good Strategy / Bad Strategy
+    - [ ] Technology Strategy Patterns
+- Systems / Thinking / Writing
+    - [X] ] Thinking in Systems
+    - [ ] And Introduction to General Systems Thinking
+    - [ ] The Great Mental Models: Vol 1
+    - [ ] Superthinking
+    - [ ] Thinking: Fast and Slow
+    - [ ] Superforecasting
+    - [X] On Writing Well
+    - [X] Are Your Lights On?
+- Uncategorized
+    - [X] Hackers & Painters
+    - [ ] HBR 10 Must Reads: On Communication
 
 ## Ongoing Practice
 
