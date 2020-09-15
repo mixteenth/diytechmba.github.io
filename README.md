@@ -102,26 +102,33 @@ An MBA program has:
 ## Skeleton
 
 - Pure Leadership
-    - [ ] The Captain Class
-    - [ ] Turn The Ship Around
-    - [ ] Small Unit Leadership
-    - [ ] Peter Druker: Effective Executive
+    - [X] [High Output Management](https://amzn.to/3ixCY0s)
+    - [X] [What You Do is Who You Are](https://amzn.to/2Qyx42D)
+    - [ ] [The Captain Class: a New Theory of Leadership](https://amzn.to/3kelUgq)
+    - [ ] [Turn The Ship Around](https://amzn.to/3iCg2x9)
+    - [ ] [Small Unit Leadership](https://amzn.to/3mkZzQp)
+    - [ ] [Effective Executive](https://amzn.to/2E3OmlL)
 - Technical Leadership
-    - [ ] Becoming a Technical Leader
-    - [ ] Art of Leadership
-    - [ ] Managing Humans
-    - [ ] Being Geek
-    - [ ] The Manager's Path
-    - [ ] The Elegant Puzzle
-    - [ ] Debugging Teams
-    - [ ] Beautiful Teams
-- Organizations and Teams: how people work
-    - [ ] Creativity Inc.
+    - [ ] [Becoming a Technical Leader](https://amzn.to/3mppeaE)
+    - [ ] [Art of Leadership](https://amzn.to/3bZONtO)
+    - [ ] [Managing Humans](https://amzn.to/33x1DMn)
+    - [ ] [Being Geek](https://amzn.to/3c8Zc6M)
+    - [ ] [The Manager's Path](https://amzn.to/3moXCCp)
+    - [ ] [The Elegant Puzzle](https://amzn.to/2Rulbvk)
+    - [ ] [97 Things Every Engineering Manager Should Know](https://amzn.to/2RtPkeb)
+    - [ ] [Debugging Teams](https://amzn.to/35EhlYP)
+    - [ ] [Beautiful Teams](https://amzn.to/3iyz9Z9)
+    - [X] [Resilient Management](https://amzn.to/
+    - [X] [Creativity Inc.](https://amzn.to/2ZI81PP)
     - [ ] Measure what Matters
-    - [ ] What You Do is Who You Are
     - [ ] The Hard Thing about Hard Things
     - [ ] The Rockefeller Habits
-    - [ ]  Scaling Up
+    - [ ] Scaling Up
+    - [ ] [Scaling Teams](https://amzn.to/2Rukjqt)
+    - [ ] [EntreLeadership](https://amzn.to/2ZHjQpn)
+    2U4wv3G)
+- Negotiations and Debate
+    - [ ] [Don't Think of an Elephant!: Know Your Values and Frame the Debate](https://amzn.to/3hxSCaQ)
 - Startups
     - [ ] The Lean Startup
     - [ ] Zero to One
@@ -129,77 +136,78 @@ An MBA program has:
     - [ ] The Hard Thing about Hard Things
     - [ ] Blitzscaling
 - Experiences
-    - [ ] Lost and Founder
-    - [ ] Bad Blood
+    - [X] [The Year Without Pants](https://amzn.to/3hz6xxB)
+    - [X] [Remote: Office Not Required](https://amzn.to/3c1Znk4)
+    - [X] [It Doesn't Have to Be Crazy at Work](https://amzn.to/33AKRvM)
+    - [X] [Rework](https://amzn.to/3mosH98)
+    - [X] [Lost and Founder](https://amzn.to/3hAOfvL)
+    - [X] [Bad Blood](https://amzn.to/33vm0tn)
     - [ ] Shoe Dog
     - [ ] Principles
 - Product Management
     - [ ] Build Trap
     - [ ] Loops
 - Project Management
-    - [ ] Making Things Happen
+    - [X] [Making Things Happen](https://amzn.to/2ZF8wdy)
 - Ethics / Society
-    - [ ] Technopology
-    - [ ] Amusing Ourselves to Death
+    - [X] [Amusing Ourselves to Death](https://amzn.to/2FvjCuA)
+    - [ ] [Technopology](https://amzn.to/2ZEQYy6)
 - Pure Tech
-    - [ ] Godel, Escher, Bach
-    - [ ] Code
-    - [ ] Beautiful Code
+    - [ ] [Godel, Escher, Bach](https://amzn.to/2FwA6To)
+    - [ ] [Code](https://amzn.to/3izUMbs)
+    - [ ] [Beautiful Code](https://amzn.to/2ZG3Uni)
 - Design
     - [ ] The Design of Everyday Things
-    - [ ] How Design Moves the World
-    - [ ] 
-- Entrepreurship
-    - Entreleadership
+    - [X] [How Design Moves the World](https://amzn.to/3iA8ZVE)
 - Innovation + Creativity
-    - [ ] Myths of Innovation
-    - [ ] Dance of the Possible
-    - [ ] Show Your Work
-    - [ ] Steal like an Artist
-    - [ ] War of Art
+    - [X] [Myths of Innovation](https://amzn.to/32uvuG2)
+    - [X] [The Dance of the Possible: the mostly honest completely irreverent guide to creativity](https://amzn.to/2E2uCio)
+    - [X] [Steal like an Artist](https://amzn.to/3mjnP5n)
+    - [X] [War of Art](https://amzn.to/3hv8A5L)
 - Consulting / Leadership
-    - [ ] The Advantage
-    - [X] The Motive
-    - [ ] The Ideal Team Player
-    - [X] The Five Dysfunctions of a Team
-    - [ ] The Truth about Employee Engagement
-    - [X] Death by Meeting
-    - [X] Silos, Politics, and Turf Wars
-    - [X] The Four Obsessions of an Extraordinary Executive
-    - [X] The Five Temptations of a CEO
-    - [X] Getting Naked
+    - [X] [The Motive](https://amzn.to/3kiOZHE)
+    - [X] [The Ideal Team Player](https://amzn.to/377PDky)
+    - [X] [The Five Dysfunctions of a Team](https://amzn.to/2PYGvt6)
+    - [X] [Death by Meeting](https://amzn.to/2ERas84)
+    - [X] [Silos, Politics, and Turf Wars](https://amzn.to/2ZnAKbm)
+    - [X] [The Four Obsessions of an Extraordinary Executive](https://amzn.to/2sh6Mti)
+    - [X] [The Five Temptations of a CEO](https://amzn.to/2QhkIvr)
+    - [X] [Getting Naked](https://amzn.to/2t0v0Iy)
     - [X] Secrets of Consulting
+    - [ ] [The Advantage](https://amzn.to/3hC3ZhY)
+    - [ ] The Truth about Employee Engagement
 - Software Development / Design
     - [ ] Programming Pearls
-    - [X] Code Complete
+    - [X] [Code Complete](https://amzn.to/2Rsm0oe)
 - Students of history, students of failure
     - [X] Life in Code: A Personal History of Technology
     - [X] The Bug
     - [X] Soul of a New Machine
     - [ ] Dealers of Lightning
 - Self-Awareness and EQ
-    - [ ] https://hbr.org/2018/01/self-awareness-can-help-leaders-more-than-an-mba-can
-    - [X] Leadership Traps
-    - [ ] References from The Manager's Path
+    - [X] [Unlocking Leadership Mindtraps: How to Thrive in Complexity](https://amzn.to/3hwIG1l)
+    - [ ] [Why Are We Yelling?: The Art of Productive Disagreement](https://amzn.to/3mqLzo0)
+    - [ ] Radical Compassion: Learning to Love Yourself and Your World with the Practice of RAIN
     - [ ] HBR: On Managing Yourself
     - [ ] Emotional Agility
     - [ ] Mindset
     - [ ] Atomic Habits
+    - [ ] What Got You Here Won't Get You There: How Successful People Become Even More Successful
 - Strategy
     - [ ] Your Next 5 Moves
     - [ ] Good Strategy / Bad Strategy
     - [ ] Technology Strategy Patterns
 - Systems / Thinking / Writing
-    - [X] ] Thinking in Systems
-    - [ ] And Introduction to General Systems Thinking
+    - [X] [Thinking in Systems](https://amzn.to/33r1XMI)
+    - [X] [On Writing Well](https://amzn.to/3bZpzMa)
+    - [X] [Are Your Lights On?](https://amzn.to/2FHPZWB)
+    - [ ] An Introduction to General Systems Thinking
     - [ ] The Great Mental Models: Vol 1
     - [ ] Superthinking
     - [ ] Thinking: Fast and Slow
     - [ ] Superforecasting
-    - [X] On Writing Well
-    - [X] Are Your Lights On?
 - Uncategorized
-    - [X] Hackers & Painters
+    - [X] [Hackers & Painters](https://amzn.to/2RqTDah)
     - [ ] HBR 10 Must Reads: On Communication
 
 ## Ongoing Practice
