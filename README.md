@@ -58,10 +58,10 @@ An MBA program has:
 - [X] [High Output Management](https://amzn.to/3ixCY0s)
 - [X] [What You Do is Who You Are](https://amzn.to/2Qyx42D)
 - [ ] [The Captain Class: a New Theory of Leadership](https://amzn.to/3kelUgq)
-- [ ] [The Principle of the Path]()
+- [ ] [The Principle of the Path](https://amzn.to/3mxEKBp)
 - [ ] [Turn The Ship Around](https://amzn.to/3iCg2x9)
 - [ ] [Small Unit Leadership](https://amzn.to/3mkZzQp)
-- [ ] [Effective Executive](https://amzn.to/2E3OmlL)
+- [ ] [The Effective Executive](https://amzn.to/2E3OmlL)
 
 **Technical Leadership**
 
