@@ -20,12 +20,13 @@ My research found all sorts of great sources:
 
 ## Curriculum
 
-*These categories are informally-defined. Don't think library, think used bookstore.
+*These categories are informally-defined. Don't think library, think used bookstore.*
 
 **Starting Points**
 
-- [ ] [Ten-Day MBA](https://amzn.to/3kjjbm0)
 - [X] [The Personal MBA](https://amzn.to/3kjX8eN)
+- [ ] [Ten-Day MBA](https://amzn.to/3kjjbm0)
+- [ ] [What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive](https://amzn.to/33yzLHL)
 
 **Pure Leadership**
 
@@ -50,15 +51,12 @@ My research found all sorts of great sources:
 - [X] [Creativity Inc.](https://amzn.to/2ZI81PP)
 - [X] [The Elegant Puzzle](https://amzn.to/2Rulbvk)
 - [X] [Peopleware](https://amzn.to/33Axbkm)
+- [X] [Building Great Software Engineering Teams](https://amzn.to/3c55AeY)
 - [ ] [97 Things Every Engineering Manager Should Know](https://amzn.to/2RtPkeb)
 - [ ] [Debugging Teams](https://amzn.to/35EhlYP)
 - [ ] [Beautiful Teams](https://amzn.to/3iyz9Z9)
 - [ ] [Measure what Matters](https://amzn.to/3bZSbVM)
-- [ ] [Mastering the Rockefeller Habits](https://amzn.to/3iBlG2u)
-- [ ] [Scaling Up](https://amzn.to/3hC0U1v)
-- [ ] [Scaling Teams](https://amzn.to/2Rukjqt)
 - [ ] [EntreLeadership](https://amzn.to/2ZHjQpn)
-- [ ] [Building Great Software Engineering Teams](https://amzn.to/3c55AeY)
 
 **Finance**
 
@@ -89,14 +87,17 @@ My research found all sorts of great sources:
 - [ ] [Trillion Dollar Coach](https://amzn.to/3iAJ9B3)
 - [ ] [Good to Great](https://amzn.to/2FHgOu2)
 
-**Startups**
+**Startups + Rapid Growth**
 
+- [X] [The Lean Startup](https://amzn.to/2ZIuDjb)
+- [X] [Zero to One](https://amzn.to/2ZIkjYB)
+- [X] [High Growth Handbook](https://amzn.to/32Ak0B0)
+- [X] [The Hard Thing about Hard Things](https://amzn.to/3c3zVe7)
 - [ ] [Business Model Generation](https://amzn.to/32B1HLZ)
-- [ ] [The Lean Startup](https://amzn.to/2ZIuDjb)
-- [ ] [Zero to One](https://amzn.to/2ZIkjYB)
-- [ ] [High Growth Handbook](https://amzn.to/32Ak0B0)
-- [ ] [The Hard Thing about Hard Things](https://amzn.to/3c3zVe7)
 - [ ] [Blitzscaling](https://amzn.to/2Rwix8c)
+- [ ] [Mastering the Rockefeller Habits](https://amzn.to/3iBlG2u)
+- [ ] [Scaling Up](https://amzn.to/3hC0U1v)
+- [ ] [Scaling Teams](https://amzn.to/2Rukjqt)
 
 **Product Management**
 
@@ -122,7 +123,11 @@ My research found all sorts of great sources:
 **Technology in Context**
 
 - [X] [Amusing Ourselves to Death](https://amzn.to/2FvjCuA)
+- [X] [Life in Code: A Personal History of Technology](https://amzn.to/3mAyf0C)
+- [X] [Close to the Machine](https://amzn.to/3iySQ2M)
+- [X] [Soul of a New Machine](https://amzn.to/35H6WvC)
 - [ ] [Technopology](https://amzn.to/2ZEQYy6)
+- [ ] [A People’s History of Computing in the United States](https://amzn.to/35G4jdc)
 
 **Engineering**
 
@@ -133,8 +138,8 @@ My research found all sorts of great sources:
 - [ ] [Beautiful Code](https://amzn.to/2ZG3Uni)
 - [ ] [Site Reliability Engineering](https://amzn.to/35DRiRp)
 
-
 **Consulting / Leadership**
+
 - [X] [The Motive](https://amzn.to/3kiOZHE)
 - [X] [The Ideal Team Player](https://amzn.to/377PDky)
 - [X] [The Five Dysfunctions of a Team](https://amzn.to/2PYGvt6)
@@ -184,9 +189,6 @@ My research found all sorts of great sources:
 - [X] [That Will Never Work](https://amzn.to/2E51iYJ)
 - [X] [Powerful: Building a Culture of Freedom and Responsibility](https://amzn.to/3mrLz7q)
 - [X] [Eat Mor Chikin: Inspire More People: Doing Business the Chick-fil-A Way](https://amzn.to/3c0Caip)
-- [X] [Life in Code: A Personal History of Technology](https://amzn.to/3mAyf0C)
-- [X] [Close to the Machine](https://amzn.to/3iySQ2M)
-- [X] [Soul of a New Machine](https://amzn.to/35H6WvC)
 - [ ] [Shoe Dog](https://amzn.to/3c2EJAf)
 - [ ] [Principles](https://amzn.to/3kgSBK4)
 
