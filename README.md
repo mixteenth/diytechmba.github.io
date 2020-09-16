@@ -52,6 +52,7 @@ My research found all sorts of great sources:
 - [X] [The Elegant Puzzle](https://amzn.to/2Rulbvk)
 - [X] [Peopleware](https://amzn.to/33Axbkm)
 - [X] [Building Great Software Engineering Teams](https://amzn.to/3c55AeY)
+- [ ] [How F*cked Up is Your Management?](https://amzn.to/2FAssY7)
 - [ ] [97 Things Every Engineering Manager Should Know](https://amzn.to/2RtPkeb)
 - [ ] [Debugging Teams](https://amzn.to/35EhlYP)
 - [ ] [Beautiful Teams](https://amzn.to/3iyz9Z9)
@@ -103,6 +104,7 @@ My research found all sorts of great sources:
 
 - [X] [Making Things Happen](https://amzn.to/2ZF8wdy)
 - [X] [Mythical Man Month](https://amzn.to/2FHikMK)
+- [X] [Death March](https://amzn.to/3c1pJTq)
 - [ ] [Build Trap](https://amzn.to/3c2wkgv)
 - [ ] [Loops](https://amzn.to/2RvBvMo)
 
