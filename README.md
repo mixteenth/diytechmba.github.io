@@ -185,4 +185,3 @@ An MBA program has:
 - [X] [Life in Code: A Personal History of Technology](https://amzn.to/3mAyf0C)
 - [X] [Close to the Machine](https://amzn.to/3iySQ2M)
 - [X] [Soul of a New Machine](https://amzn.to/35H6WvC)
-
