@@ -25,62 +25,43 @@ An MBA program has:
 - Note: want to make sure it isn't some Valley focused VC or pure entrepreneurship link of thinking (many DIY Tech MBAs are)
 - Capstone project
 
-## Academic Category Skeleton
-
-- Accounting
-- Finance
-- Information Technology Management
-- Law & Ethics
-- Marketing
-- Operations Management
-- Organizational Behavior
-- Strategy & Innovation
-- Entrepreneurship
-- Statistics
-- Economics
-- Business Intelligence
-- Risk Management
-- Tech Core
-    - DevOps
-    - Data
-    - Business Analytics
-    - Product Management
-
-## Skeleton
-
-**Starting Points / General**
+**Starting Points**
 
 - [ ] [Ten-Day MBA](https://amzn.to/3kjjbm0)
-- [ ] [The Personal MBA](https://amzn.to/3kjX8eN)
+- [X] [The Personal MBA](https://amzn.to/3kjX8eN)
 
 **Pure Leadership**
 
 - [X] [High Output Management](https://amzn.to/3ixCY0s)
 - [X] [What You Do is Who You Are](https://amzn.to/2Qyx42D)
+- [X] [How to Lead When You are Not In Charge](https://amzn.to/2X3Llri)
 - [ ] [The Captain Class: a New Theory of Leadership](https://amzn.to/3kelUgq)
 - [ ] [The Principle of the Path](https://amzn.to/3mxEKBp)
 - [ ] [Turn The Ship Around](https://amzn.to/3iCg2x9)
 - [ ] [Small Unit Leadership](https://amzn.to/3mkZzQp)
 - [ ] [The Effective Executive](https://amzn.to/2E3OmlL)
+- [ ] [The 21 Irrefutable Laws of Leadership](https://amzn.to/32zNLSd)
 
 **Technical Leadership**
 
-- [ ] [Becoming a Technical Leader](https://amzn.to/3mppeaE)
-- [ ] [Art of Leadership](https://amzn.to/3bZONtO)
-- [ ] [Managing Humans](https://amzn.to/33x1DMn)
-- [ ] [Being Geek](https://amzn.to/3c8Zc6M)
-- [ ] [The Manager's Path](https://amzn.to/3moXCCp)
-- [ ] [The Elegant Puzzle](https://amzn.to/2Rulbvk)
+- [X] [Becoming a Technical Leader](https://amzn.to/3mppeaE)
+- [X] [Art of Leadership](https://amzn.to/3bZONtO)
+- [X] [Managing Humans](https://amzn.to/33x1DMn)
+- [X] [Being Geek](https://amzn.to/3c8Zc6M)
+- [X] [The Manager's Path](https://amzn.to/3moXCCp)
+- [X] [Resilient Management](https://amzn.to/2Rs49hv)
+- [X] [Creativity Inc.](https://amzn.to/2ZI81PP)
+- [X] [The Elegant Puzzle](https://amzn.to/2Rulbvk)
 - [ ] [97 Things Every Engineering Manager Should Know](https://amzn.to/2RtPkeb)
 - [ ] [Debugging Teams](https://amzn.to/35EhlYP)
 - [ ] [Beautiful Teams](https://amzn.to/3iyz9Z9)
-- [X] [Resilient Management](https://amzn.to/
-- [X] [Creativity Inc.](https://amzn.to/2ZI81PP)
-- [ ] Measure what Matters
-- [ ] The Rockefeller Habits
-- [ ] Scaling Up
+- [ ] [Measure what Matters](https://amzn.to/3bZSbVM)
+- [ ] [Mastering the Rockefeller Habits](https://amzn.to/3iBlG2u)
+- [ ] [Scaling Up](https://amzn.to/3hC0U1v)
 - [ ] [Scaling Teams](https://amzn.to/2Rukjqt)
 - [ ] [EntreLeadership](https://amzn.to/2ZHjQpn)
+- [ ] [Peopleware](https://amzn.to/33Axbkm)
+- [ ] [Building Great Software Engineering Teams](https://amzn.to/3c55AeY)
 
 **Finance**
 
@@ -94,6 +75,11 @@ An MBA program has:
 - [ ] [Your Next Five Moves](https://amzn.to/35GG5jg)
 - [ ] [Good Strategy / Bad Strategy](https://amzn.to/2RwXp1P)
 - [ ] [Technology Strategy Patterns](https://amzn.to/3mjLnah)
+- [ ] [Company of One](https://amzn.to/3f2clhJ)
+- [ ] [Nine Lies about Work](https://amzn.to/3aje9k6)
+- [ ] [Built to Last](https://amzn.to/3hvp5hX)
+- [ ] [Trillion Dollar Coach](https://amzn.to/3iAJ9B3)
+- [ ] [Good to Great](https://amzn.to/2FHgOu2)
 
 **Negotiations and Debate**
 
@@ -114,6 +100,7 @@ An MBA program has:
 - [X] [Making Things Happen](https://amzn.to/2ZF8wdy)
 - [ ] [Build Trap](https://amzn.to/3c2wkgv)
 - [ ] [Loops](https://amzn.to/2RvBvMo)
+- [ ] [Mythical Man Month](https://amzn.to/2FHikMK)
 
 **Design + Innovation + Creativity**
 
@@ -123,10 +110,14 @@ An MBA program has:
 - [X] [The Dance of the Possible: the mostly honest completely irreverent guide to creativity](https://amzn.to/2E2uCio)
 - [X] [Steal like an Artist](https://amzn.to/3mjnP5n)
 - [X] [War of Art](https://amzn.to/3hv8A5L)
-- [ ] The Design of Everyday Things
+- [ ] [The Design of Everyday Things](https://amzn.to/2FwwgJO)
 - [ ] [Critical Thinking](https://amzn.to/3mpxFT9)
+- [ ] [The Best Interface is No Interface]()
+- [ ] [User Story Mapping](https://amzn.to/3kmWbm5)
+- [ ] [Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs](https://amzn.to/39l24LJ)
 
 **Technology in Context**
+
 - [X] [Amusing Ourselves to Death](https://amzn.to/2FvjCuA)
 - [ ] [Technopology](https://amzn.to/2ZEQYy6)
 
@@ -136,6 +127,8 @@ An MBA program has:
 - [ ] [Godel, Escher, Bach](https://amzn.to/2FwA6To)
 - [ ] [Code](https://amzn.to/3izUMbs)
 - [ ] [Beautiful Code](https://amzn.to/2ZG3Uni)
+- [ ] [Site Reliability Engineering](https://amzn.to/35DRiRp)
+- [ ] [Release It](https://amzn.to/3kiu8Er)
 
 **Consulting / Leadership**
 - [X] [The Motive](https://amzn.to/3kiOZHE)
@@ -146,32 +139,35 @@ An MBA program has:
 - [X] [The Four Obsessions of an Extraordinary Executive](https://amzn.to/2sh6Mti)
 - [X] [The Five Temptations of a CEO](https://amzn.to/2QhkIvr)
 - [X] [Getting Naked](https://amzn.to/2t0v0Iy)
-- [X] Secrets of Consulting
+- [X] [Secrets of Consulting](https://amzn.to/2RxnVrY)
 - [ ] [The Advantage](https://amzn.to/3hC3ZhY)
-- [ ] The Truth about Employee Engagement
+- [ ] [The Truth about Employee Engagement](https://amzn.to/2FFDdIs)
 
 **Self-Awareness and Emotional Intelligence**
 
 - [X] [Unlocking Leadership Mindtraps: How to Thrive in Complexity](https://amzn.to/3hwIG1l)
 - [X] [Mindset](https://amzn.to/3mrkYXR)
 - [ ] [Why Are We Yelling?: The Art of Productive Disagreement](https://amzn.to/3mqLzo0)
-- [ ] Radical Compassion: Learning to Love Yourself and Your World with the Practice of RAIN
-- [ ] HBR: On Managing Yourself
-- [ ] HBR 10 Must Reads: On Communication
-- [ ] Emotional Agility
-- [ ] Atomic Habits
-- [ ] What Got You Here Won't Get You There: How Successful People Become Even More Successful
+- [ ] [Radical Compassion](https://amzn.to/3c2B9pP)
+- [ ] [Emotional Agility](https://amzn.to/3iB7J4O)
+- [ ] [Atomic Habits](https://amzn.to/2ZFOa3P)
+- [ ] [What Got You Here Won't Get You There](https://amzn.to/3kiXnqA)
+- [ ] [No Hard Feelings: The Secret Power of Embracing Emotions at Work](https://amzn.to/3kmXiCh)
 
 **Thinking**
 
 - [X] [Thinking in Systems](https://amzn.to/33r1XMI)
 - [X] [On Writing Well](https://amzn.to/3bZpzMa)
 - [X] [Are Your Lights On?](https://amzn.to/2FHPZWB)
-- [ ] An Introduction to General Systems Thinking
-- [ ] The Great Mental Models: Vol 1
-- [ ] Superthinking
-- [ ] Thinking: Fast and Slow
-- [ ] Superforecasting  
+- [X] [The Obstacle is the Way](https://amzn.to/3iB68fk)
+- [X] [Ego is the Enemy](https://amzn.to/3c06s4P)
+- [X] [Stillness is the Key](https://amzn.to/32zNwa4)
+- [ ] [An Introduction to General Systems Thinking](https://amzn.to/3mAy7ya)
+- [ ] [The Great Mental Models: Vol 1](https://amzn.to/2Fz7tEX)
+- [ ] [Superthinking](https://amzn.to/2FDEmA8)
+- [ ] [Thinking: Fast and Slow](https://amzn.to/32yUFr3)
+- [ ] [Superforecasting](https://amzn.to/2FoKcFZ)  
+- [ ] [The Art of Learning](https://amzn.to/32woLeL)
 
 **Case Studies / Other's Experiences**
 
@@ -181,9 +177,12 @@ An MBA program has:
 - [X] [Rework](https://amzn.to/3mosH98)
 - [X] [Lost and Founder](https://amzn.to/3hAOfvL)
 - [X] [Bad Blood](https://amzn.to/33vm0tn)
-- [ ] Shoe Dog
-- [ ] Principles
-- [X] Life in Code: A Personal History of Technology
-- [X] The Bug
-- [X] Soul of a New Machine
-- [ ] Dealers of Lightning
+- [X] [That Will Never Work](https://amzn.to/2E51iYJ)
+- [X] [Powerful: Building a Culture of Freedom and Responsibility](https://amzn.to/3mrLz7q)
+- [X] [Eat Mor Chikin: Inspire More People: Doing Business the Chick-fil-A Way](https://amzn.to/3c0Caip)
+- [ ] [Shoe Dog](https://amzn.to/3c2EJAf)
+- [ ] [Principles](https://amzn.to/3kgSBK4)
+- [X] [Life in Code: A Personal History of Technology](https://amzn.to/3mAyf0C)
+- [X] [Close to the Machine](https://amzn.to/3iySQ2M)
+- [X] [Soul of a New Machine](https://amzn.to/35H6WvC)
+
