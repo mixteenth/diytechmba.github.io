@@ -29,12 +29,4 @@
 
 ### CMU Masters in Product Management
 
-- https://www.cs.cmu.edu/master-science-product-management
-
-### NYU Tech MBA
-
-- http://www.stern.nyu.edu/programs-admissions/tech-mba/program
-
-### Cornell Tech MBA
-
-- https://tech.cornell.edu/programs/masters-programs/johnson-cornell-tech-mba
+- 

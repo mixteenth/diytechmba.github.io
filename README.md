@@ -2,28 +2,25 @@
 
 ## Introduction
 
-At the point in my career 5 years ago where I sort of wished I *had* an MBA, but it would be difficult to *get* an MBA. It would be hard to stop working and get one, hard to find the time to do a part-time one, and felt that the purely online versions were too expensive for the value they were giving you. I don't need help with motivation, and I'm not afraid to read a lot. I wasn't working for a big company, so the traditional way people at this point in my career fund an MBA wasn't an option. So I decided instead to just focus my reading practice towards MBA books. But which ones?
+I reached a point in my career 5 years ago where I wished I *had* an MBA, but it was difficult to *get* an MBA. It would be hard to stop working and get one, hard and expensive to find the time to do a part-time one, and I wasn't working for a place that would pay for one at the time. 
 
-But my focus was on a *Tech* MBA, so it would need all the cores classes but plenty of electives that covered the specific needs of an MBA with technology leadership and management focus.
+I don't need the structure of an MBA program to provide motivation, and I'm not afraid to read. So I decided instead to just focus my reading practice towards an MBA curriculum. 
 
-Where I got my sources:
+My focus was on a *Tech* MBA which to me means learning about how to start, grow, and manage technologies companies. The curriculum would need all the typical core classes, but electives that focus on technology leadership.
 
-- Research of the assigned books of the 3 MBA schools that would be candidates if I was to attend; these schools will remain nameless.
-- [Personal MBA book and reading list](https://personalmba.com/)
-- [altMBA](https://altmba.com/) [unofficial book list](https://www.goodreads.com/shelf/show/altmba)
+My research found all sorts of great sources:
+
+- The assigned books of the top traditional MBA programs, and more tech-focused programs such as the [Stern Tech MBA](http://www.stern.nyu.edu/programs-admissions/tech-mba/program), [Cornell Tech MBA](https://tech.cornell.edu/programs/masters-programs/johnson-cornell-tech-mba), and [CMU's Masters of Product Management](https://www.cs.cmu.edu/master-science-product-management
+).
+- [Personal MBA book and reading list](https://personalmba.com/).
+- [Seth Godin's altMBA](https://altmba.com/) [unofficial book list](https://www.goodreads.com/shelf/show/altmba).
 - [Basecamp MBA list](https://m.signalvnoise.com/the--basecamp-mba--reading-list/)
-- [Random people on reddit](https://www.reddit.com/r/Entrepreneur/comments/663vkv/diymba_a_compiled_list_of_19_free_courses_31_books/)
-- My own judgement based on a career in tech that started in 2000
+- I am not the first to seek deeper business knowledge while avoiding a traditional MBA programs, so [Random people on reddit](https://www.reddit.com/r/Entrepreneur/comments/663vkv/diymba_a_compiled_list_of_19_free_courses_31_books/) were also consulted.
+- My own judgement based on a career in tech that started in 2000.
 
-## What I'm trying to replicate
+## Curriculum
 
-An MBA program has:
-
-- Connections / build your network
-- Core classes, typically around the following core areas: _______.
-- Electives, for your area of focus; for someone going into technology leadership this would likely be entrepreneurship, innovation, or IT project management.
-- Note: want to make sure it isn't some Valley focused VC or pure entrepreneurship link of thinking (many DIY Tech MBAs are)
-- Capstone project
+*These categories are informally-defined. Don't think library, think used bookstore.
 
 **Starting Points**
 
@@ -52,6 +49,7 @@ An MBA program has:
 - [X] [Resilient Management](https://amzn.to/2Rs49hv)
 - [X] [Creativity Inc.](https://amzn.to/2ZI81PP)
 - [X] [The Elegant Puzzle](https://amzn.to/2Rulbvk)
+- [X] [Peopleware](https://amzn.to/33Axbkm)
 - [ ] [97 Things Every Engineering Manager Should Know](https://amzn.to/2RtPkeb)
 - [ ] [Debugging Teams](https://amzn.to/35EhlYP)
 - [ ] [Beautiful Teams](https://amzn.to/3iyz9Z9)
@@ -60,7 +58,6 @@ An MBA program has:
 - [ ] [Scaling Up](https://amzn.to/3hC0U1v)
 - [ ] [Scaling Teams](https://amzn.to/2Rukjqt)
 - [ ] [EntreLeadership](https://amzn.to/2ZHjQpn)
-- [ ] [Peopleware](https://amzn.to/33Axbkm)
 - [ ] [Building Great Software Engineering Teams](https://amzn.to/3c55AeY)
 
 **Finance**
@@ -69,6 +66,17 @@ An MBA program has:
 - [ ] [Financial Intelligence, Revised Edition: A Manager's Guide to Knowing What the Numbers Really Mean](https://amzn.to/32ArF2d)
 - [ ] [Accounting Made Simple](https://amzn.to/3c2y09z)
 - [ ] [CFO Techniques: A Hands-on Guide to Keeping Your Business Solvent and Successful](https://amzn.to/3kjjbm0)
+
+**Sales + Marketing + Negotiations**
+
+- [ ] [Mastering the Complex Sale](https://amzn.to/2RvLnpx)
+- [ ] [Making Ideas Happen](https://amzn.to/33AzLak)
+- [ ] [Building a Story Brand](https://amzn.to/2FI9hLP)
+- [ ] [Blue Ocean Strategy](https://amzn.to/33wDjdK)
+- [ ] [Forever Employable](https://amzn.to/35Hqgsv)
+- [ ] [Don't Think of an Elephant!: Know Your Values and Frame the Debate](https://amzn.to/3hxSCaQ)
+- [ ] [Influence](https://amzn.to/2H56ih6)
+- [ ] [Never Split the Difference](https://amzn.to/3hsJ3Ko)
 
 **Strategy**
 
@@ -81,14 +89,9 @@ An MBA program has:
 - [ ] [Trillion Dollar Coach](https://amzn.to/3iAJ9B3)
 - [ ] [Good to Great](https://amzn.to/2FHgOu2)
 
-**Negotiations and Debate**
-
-- [ ] [Don't Think of an Elephant!: Know Your Values and Frame the Debate](https://amzn.to/3hxSCaQ)
-- [ ] [Influence](https://amzn.to/2H56ih6)
-- [ ] [Never Split the Difference](https://amzn.to/3hsJ3Ko)
-
 **Startups**
 
+- [ ] [Business Model Generation](https://amzn.to/32B1HLZ)
 - [ ] [The Lean Startup](https://amzn.to/2ZIuDjb)
 - [ ] [Zero to One](https://amzn.to/2ZIkjYB)
 - [ ] [High Growth Handbook](https://amzn.to/32Ak0B0)
@@ -98,9 +101,9 @@ An MBA program has:
 **Product Management**
 
 - [X] [Making Things Happen](https://amzn.to/2ZF8wdy)
+- [X] [Mythical Man Month](https://amzn.to/2FHikMK)
 - [ ] [Build Trap](https://amzn.to/3c2wkgv)
 - [ ] [Loops](https://amzn.to/2RvBvMo)
-- [ ] [Mythical Man Month](https://amzn.to/2FHikMK)
 
 **Design + Innovation + Creativity**
 
@@ -110,25 +113,26 @@ An MBA program has:
 - [X] [The Dance of the Possible: the mostly honest completely irreverent guide to creativity](https://amzn.to/2E2uCio)
 - [X] [Steal like an Artist](https://amzn.to/3mjnP5n)
 - [X] [War of Art](https://amzn.to/3hv8A5L)
+- [X] [The Best Interface is No Interface](https://amzn.to/2FErb22)
+- [X] [Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs](https://amzn.to/39l24LJ)
 - [ ] [The Design of Everyday Things](https://amzn.to/2FwwgJO)
 - [ ] [Critical Thinking](https://amzn.to/3mpxFT9)
-- [ ] [The Best Interface is No Interface]()
 - [ ] [User Story Mapping](https://amzn.to/3kmWbm5)
-- [ ] [Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs](https://amzn.to/39l24LJ)
 
 **Technology in Context**
 
 - [X] [Amusing Ourselves to Death](https://amzn.to/2FvjCuA)
 - [ ] [Technopology](https://amzn.to/2ZEQYy6)
 
-**Pure Tech**
+**Engineering**
 
 - [X] [Code Complete](https://amzn.to/2Rsm0oe)
+- [X] [Release It](https://amzn.to/3kiu8Er)
 - [ ] [Godel, Escher, Bach](https://amzn.to/2FwA6To)
 - [ ] [Code](https://amzn.to/3izUMbs)
 - [ ] [Beautiful Code](https://amzn.to/2ZG3Uni)
 - [ ] [Site Reliability Engineering](https://amzn.to/35DRiRp)
-- [ ] [Release It](https://amzn.to/3kiu8Er)
+
 
 **Consulting / Leadership**
 - [X] [The Motive](https://amzn.to/3kiOZHE)
@@ -180,8 +184,18 @@ An MBA program has:
 - [X] [That Will Never Work](https://amzn.to/2E51iYJ)
 - [X] [Powerful: Building a Culture of Freedom and Responsibility](https://amzn.to/3mrLz7q)
 - [X] [Eat Mor Chikin: Inspire More People: Doing Business the Chick-fil-A Way](https://amzn.to/3c0Caip)
-- [ ] [Shoe Dog](https://amzn.to/3c2EJAf)
-- [ ] [Principles](https://amzn.to/3kgSBK4)
 - [X] [Life in Code: A Personal History of Technology](https://amzn.to/3mAyf0C)
 - [X] [Close to the Machine](https://amzn.to/3iySQ2M)
 - [X] [Soul of a New Machine](https://amzn.to/35H6WvC)
+- [ ] [Shoe Dog](https://amzn.to/3c2EJAf)
+- [ ] [Principles](https://amzn.to/3kgSBK4)
+
+## Ongoing Practice
+
+*There are a million ways to keep up to date, here are a few.*
+
+- Y Combinator's [Startup School Library](https://www.startupschool.org/library)
+- Harvard Busines Review's [10 Must-Read series](https://store.hbr.org/books/hbr-10-must-read-series/)
+- [Increment Magazine](https://increment.com/)
+- Matt Levine's [Money Stuff column](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine)
+- [Stratechery](https://stratechery.com), especially the [concepts](https://stratechery.com/concepts/)
