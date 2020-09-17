@@ -2,21 +2,20 @@
 
 ## Introduction
 
-I reached a point in my career 5 years ago where I wished I *had* an MBA, but it was difficult to *get* an MBA. It would be hard to stop working and get one, hard and expensive to find the time to do a part-time one, and I wasn't working for a place that would pay for one at the time. 
+I reached a point in my career a few years ago where I wished I *had* an MBA, but it was difficult to *get* an MBA. It would be hard to stop working and get one, hard and expensive to find the time to do a part-time one, and I wasn't working for a place that would pay for one at the time. 
 
 I don't need the structure of an MBA program to provide motivation, and I'm not afraid to read. So I decided instead to just focus my reading practice towards an MBA curriculum. 
 
 My focus was on a *Tech* MBA which to me means learning about how to start, grow, and manage technologies companies. The curriculum would need all the typical core classes, but electives that focus on technology leadership.
 
-My research found all sorts of great sources:
+My research found all sorts of great sources for ideas:
 
 - The assigned books of the top traditional MBA programs, and more tech-focused programs such as the [Stern Tech MBA](http://www.stern.nyu.edu/programs-admissions/tech-mba/program), [Cornell Tech MBA](https://tech.cornell.edu/programs/masters-programs/johnson-cornell-tech-mba), and [CMU's Masters of Product Management](https://www.cs.cmu.edu/master-science-product-management
 ).
 - [Personal MBA book and reading list](https://personalmba.com/).
 - [Seth Godin's altMBA](https://altmba.com/) [unofficial book list](https://www.goodreads.com/shelf/show/altmba).
 - [Basecamp MBA list](https://m.signalvnoise.com/the--basecamp-mba--reading-list/)
-- I am not the first to seek deeper business knowledge while avoiding a traditional MBA programs, so [Random people on reddit](https://www.reddit.com/r/Entrepreneur/comments/663vkv/diymba_a_compiled_list_of_19_free_courses_31_books/) were also consulted.
-- My own judgement based on a career in tech that started in 2000.
+- My own judgement.
 
 ## Goals
 
