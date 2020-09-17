@@ -18,6 +18,21 @@ My research found all sorts of great sources:
 - I am not the first to seek deeper business knowledge while avoiding a traditional MBA programs, so [Random people on reddit](https://www.reddit.com/r/Entrepreneur/comments/663vkv/diymba_a_compiled_list_of_19_free_courses_31_books/) were also consulted.
 - My own judgement based on a career in tech that started in 2000.
 
+## Goals
+
+While an approach like this can't replicate an MBA experience in many ways:
+
+- Growth of connections for your career
+- A series of team projects that simulate the real world
+- Access to a dynamic Q+A environment with professors and classmates
+- $200 textbooks
+
+I do want it to simulate it in the following ways:
+
+- The curriculum is extensive, it takes years to do all the required reading and projects. (i.e. the below list will be longer than you might expect)
+- Core subjects that I would *never* study have to be covered. Get those boring but neccessary feeder classes done.
+- Provide a foundation that I can add to over time. Education is a verb.
+
 ## Curriculum
 
 *These categories are informally-defined. Don't think library, think used bookstore.*
@@ -26,7 +41,7 @@ My research found all sorts of great sources:
 
 - [X] [The Personal MBA](https://amzn.to/3kjX8eN)
 - [ ] [Ten-Day MBA](https://amzn.to/3kjjbm0)
-- [ ] [What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive](https://amzn.to/33yzLHL)
+- [ ] [What They Don't Teach You at Harvard Business School](https://amzn.to/33yzLHL)
 
 **Pure Leadership**
 
@@ -42,7 +57,6 @@ My research found all sorts of great sources:
 
 **Technical Leadership**
 
-- [X] [Becoming a Technical Leader](https://amzn.to/3mppeaE)
 - [X] [Art of Leadership](https://amzn.to/3bZONtO)
 - [X] [Managing Humans](https://amzn.to/33x1DMn)
 - [X] [Being Geek](https://amzn.to/3c8Zc6M)
@@ -52,18 +66,23 @@ My research found all sorts of great sources:
 - [X] [The Elegant Puzzle](https://amzn.to/2Rulbvk)
 - [X] [Peopleware](https://amzn.to/33Axbkm)
 - [X] [Building Great Software Engineering Teams](https://amzn.to/3c55AeY)
-- [ ] [How F*cked Up is Your Management?](https://amzn.to/2FAssY7)
+- [X] [How F*cked Up is Your Management?](https://amzn.to/2FAssY7)
 - [ ] [97 Things Every Engineering Manager Should Know](https://amzn.to/2RtPkeb)
 - [ ] [Debugging Teams](https://amzn.to/35EhlYP)
 - [ ] [Beautiful Teams](https://amzn.to/3iyz9Z9)
 - [ ] [Measure what Matters](https://amzn.to/3bZSbVM)
 - [ ] [EntreLeadership](https://amzn.to/2ZHjQpn)
 
+**Economics**
+
+- [ ] [Economics in One Lesson](https://amzn.to/33DCXC4)
+- [ ] [Naked Economics: Undressing the Dismal Science](https://amzn.to/33GQ1X8)
+
 **Finance**
 
+- [ ] [Accounting Made Simple](https://amzn.to/3c2y09z)
 - [ ] [Simple Numbers, Straight Talk, Big Profits](https://amzn.to/33u4aah)
 - [ ] [Financial Intelligence, Revised Edition: A Manager's Guide to Knowing What the Numbers Really Mean](https://amzn.to/32ArF2d)
-- [ ] [Accounting Made Simple](https://amzn.to/3c2y09z)
 - [ ] [CFO Techniques: A Hands-on Guide to Keeping Your Business Solvent and Successful](https://amzn.to/3kjjbm0)
 
 **Sales + Marketing + Negotiations**
@@ -79,11 +98,11 @@ My research found all sorts of great sources:
 
 **Strategy**
 
+- [X] [Nine Lies about Work](https://amzn.to/3aje9k6)
+- [X] [Company of One](https://amzn.to/3f2clhJ)
 - [ ] [Your Next Five Moves](https://amzn.to/35GG5jg)
 - [ ] [Good Strategy / Bad Strategy](https://amzn.to/2RwXp1P)
 - [ ] [Technology Strategy Patterns](https://amzn.to/3mjLnah)
-- [ ] [Company of One](https://amzn.to/3f2clhJ)
-- [ ] [Nine Lies about Work](https://amzn.to/3aje9k6)
 - [ ] [Built to Last](https://amzn.to/3hvp5hX)
 - [ ] [Trillion Dollar Coach](https://amzn.to/3iAJ9B3)
 - [ ] [Good to Great](https://amzn.to/2FHgOu2)
@@ -107,6 +126,7 @@ My research found all sorts of great sources:
 - [X] [Death March](https://amzn.to/3c1pJTq)
 - [ ] [Build Trap](https://amzn.to/3c2wkgv)
 - [ ] [Loops](https://amzn.to/2RvBvMo)
+- [ ] [Lovability](https://amzn.to/3hH5P12)
 
 **Design + Innovation + Creativity**
 
@@ -139,8 +159,11 @@ My research found all sorts of great sources:
 - [ ] [Code](https://amzn.to/3izUMbs)
 - [ ] [Beautiful Code](https://amzn.to/2ZG3Uni)
 - [ ] [Site Reliability Engineering](https://amzn.to/35DRiRp)
+- [ ] [Domain-Driven Design](https://amzn.to/2RHpaEJ)
 
-**Consulting / Leadership**
+**Patrick Lencioni**
+
+*I have special sections for Patrick Lencioni and Gerald Weinberg books. They are category-crossing, though-provoking, solid reads.*
 
 - [X] [The Motive](https://amzn.to/3kiOZHE)
 - [X] [The Ideal Team Player](https://amzn.to/377PDky)
@@ -150,9 +173,18 @@ My research found all sorts of great sources:
 - [X] [The Four Obsessions of an Extraordinary Executive](https://amzn.to/2sh6Mti)
 - [X] [The Five Temptations of a CEO](https://amzn.to/2QhkIvr)
 - [X] [Getting Naked](https://amzn.to/2t0v0Iy)
-- [X] [Secrets of Consulting](https://amzn.to/2RxnVrY)
 - [ ] [The Advantage](https://amzn.to/3hC3ZhY)
 - [ ] [The Truth about Employee Engagement](https://amzn.to/2FFDdIs)
+
+**Gerald Weinberg**
+
+- [X] [The Psychology of Computer Programming](https://amzn.to/3kvdOA3)
+- [X] [Secrets of Consulting](https://amzn.to/2RxnVrY)
+- [X] [More Secrets of Consulting](https://amzn.to/3iG2mRQ)
+- [X] [Becoming a Technical Leader](https://amzn.to/3mppeaE)
+- [X] [More Secrets of Consulting](https://amzn.to/3iGDol8)
+- [X] [Are Your Lights On?](https://amzn.to/2FHPZWB)
+- [ ] [An Introduction to General Systems Thinking](https://amzn.to/3mAy7ya)
 
 **Self-Awareness and Emotional Intelligence**
 
@@ -169,11 +201,9 @@ My research found all sorts of great sources:
 
 - [X] [Thinking in Systems](https://amzn.to/33r1XMI)
 - [X] [On Writing Well](https://amzn.to/3bZpzMa)
-- [X] [Are Your Lights On?](https://amzn.to/2FHPZWB)
 - [X] [The Obstacle is the Way](https://amzn.to/3iB68fk)
 - [X] [Ego is the Enemy](https://amzn.to/3c06s4P)
 - [X] [Stillness is the Key](https://amzn.to/32zNwa4)
-- [ ] [An Introduction to General Systems Thinking](https://amzn.to/3mAy7ya)
 - [ ] [The Great Mental Models: Vol 1](https://amzn.to/2Fz7tEX)
 - [ ] [Superthinking](https://amzn.to/2FDEmA8)
 - [ ] [Thinking: Fast and Slow](https://amzn.to/32yUFr3)
@@ -203,3 +233,4 @@ My research found all sorts of great sources:
 - [Increment Magazine](https://increment.com/)
 - Matt Levine's [Money Stuff column](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine)
 - [Stratechery](https://stratechery.com), especially the [concepts](https://stratechery.com/concepts/)
+- [YouTube MBA](https://docs.google.com/spreadsheets/d/11oYJlQWQVqCI6mxBjy8ltd7l5uEBEI3ufVf0AufCaCA/edit#gid=0)
