@@ -21,18 +21,17 @@ My research found all sorts of great sources for ideas:
 
 ## Goals
 
-While an approach like this can't replicate an MBA experience in many ways:
+### 1. Foundational Knowledge
 
-- Growth of connections for your career
-- A series of team projects that simulate the real world
-- Access to a dynamic Q+A environment with professors and classmates
-- $200 textbooks
+*Gather general knowledge of traditional business subjects such as Economics, Finance, Marketing that I would not pickup naturally. Provide myself with a broader foundational base of knowledge.*
 
-I do want it to simulate it in the following ways:
+In one sentence: *If I decided to start a business tomorrow, this preparation lessens the learning curve*.
 
-- The curriculum is extensive, it takes years to do all the required reading and projects. (i.e. the below list will be longer than you might expect)
-- Core subjects that I would *never* study have to be covered. Get those boring but neccessary feeder classes done.
-- Provide a foundation that I can add to over time. Education is a verb.
+### 2. Technical Leadership at Scale
+
+*Learn how some problems are solved at a larger scale than I need to solve them now. While I've managed teams between 2 - 20 people, there are new challenges in larger systems and teams. Learn how engineering cultures evolve and learn more of the background and theory on how technology + business strategy defines companies and cultures.*
+
+In one sentence: *Help me become a better manager by expanding my knowledge*.
 
 ## Curriculum
 
