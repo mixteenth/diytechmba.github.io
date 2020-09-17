@@ -1,5 +1,7 @@
 # DIY Tech MBA
 
+![Bookshelf](img/bookshelf.jpg)
+
 ## Introduction
 
 I reached a point in my career a few years ago where I wished I *had* an MBA, but it was difficult to *get* an MBA. It would be hard to stop working and get one, hard and expensive to find the time to do a part-time one, and I wasn't working for a place that would pay for one at the time. 
