@@ -173,8 +173,8 @@ In one sentence: *Help me become a better manager by expanding my knowledge*.
 - [X] [The Four Obsessions of an Extraordinary Executive](https://amzn.to/2sh6Mti)
 - [X] [The Five Temptations of a CEO](https://amzn.to/2QhkIvr)
 - [X] [Getting Naked](https://amzn.to/2t0v0Iy)
+- [X] [The Truth about Employee Engagement](https://amzn.to/2FFDdIs)
 - [ ] [The Advantage](https://amzn.to/3hC3ZhY)
-- [ ] [The Truth about Employee Engagement](https://amzn.to/2FFDdIs)
 
 **Gerald Weinberg**
 
