@@ -159,7 +159,8 @@ In one sentence: *Help me become a better manager by expanding my knowledge of n
 - [X] [Life in Code: A Personal History of Technology](https://amzn.to/3mAyf0C)
 - [X] [Close to the Machine](https://amzn.to/3iySQ2M)
 - [X] [Soul of a New Machine](https://amzn.to/35H6WvC)
-- [ ] [The Circle]()
+- [X] [Ruined by Design](https://amzn.to/2Mrc4cx)
+- [X] [The Circle](https://amzn.to/3hMhqfA)
 - [ ] [Technopology](https://amzn.to/2ZEQYy6)
 - [ ] [A People’s History of Computing in the United States](https://amzn.to/35G4jdc)
 
