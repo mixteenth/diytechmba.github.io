@@ -41,11 +41,11 @@ In one sentence: *Help me become a better manager by expanding my knowledge of n
 
 -- Naval Ravikant
 
-So: have the curriculum reflect more diverse interests than typical.
+*So: have the curriculum reflect more diverse interests than typical. In that spirit, the below categories are informally-defined. Don't think library, think used bookstore.*
 
 ## Curriculum
 
-*These categories are informally-defined. Don't think library, think used bookstore.*
+
 
 **Starting Points**
 
@@ -159,6 +159,7 @@ So: have the curriculum reflect more diverse interests than typical.
 - [X] [Life in Code: A Personal History of Technology](https://amzn.to/3mAyf0C)
 - [X] [Close to the Machine](https://amzn.to/3iySQ2M)
 - [X] [Soul of a New Machine](https://amzn.to/35H6WvC)
+- [ ] [The Circle]()
 - [ ] [Technopology](https://amzn.to/2ZEQYy6)
 - [ ] [A People’s History of Computing in the United States](https://amzn.to/35G4jdc)
 
@@ -197,10 +198,14 @@ So: have the curriculum reflect more diverse interests than typical.
 - [X] [Are Your Lights On?](https://amzn.to/2FHPZWB)
 - [ ] [An Introduction to General Systems Thinking](https://amzn.to/3mAy7ya)
 
-**Self-Awareness and Emotional Intelligence**
+**Self-Awareness + Emotional Intelligence + Psychology**
 
 - [X] [Unlocking Leadership Mindtraps: How to Thrive in Complexity](https://amzn.to/3hwIG1l)
 - [X] [Mindset](https://amzn.to/3mrkYXR)
+- [X] [Flourish: A Visionary New Understanding of Happiness and Well-Being](https://amzn.to/3krpMe6)
+- [X] [Managing Oneself](https://amzn.to/3kvRLJK)
+- [ ] [Range](https://amzn.to/2MuCB92)
+- [ ] [Subliminal: How Your Unconscious Mind Rules Your Behavior](https://amzn.to/39dEPDl)
 - [ ] [Why Are We Yelling?: The Art of Productive Disagreement](https://amzn.to/3mqLzo0)
 - [ ] [Radical Compassion](https://amzn.to/3c2B9pP)
 - [ ] [Emotional Agility](https://amzn.to/3iB7J4O)
