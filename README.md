@@ -8,7 +8,7 @@ I reached a point in my career a few years ago where I wished I *had* an MBA, bu
 
 I don't need the structure of an MBA program to provide motivation, and I'm not afraid to read. So I decided instead to just focus my reading practice towards an MBA curriculum. 
 
-My focus was on a *Tech* MBA which to me means learning about how to start, grow, and manage technologies companies. The curriculum would need all the typical core classes, but electives that focus on technology leadership.
+My focus was on a *Tech* MBA which to me means learning about how to start, grow, and manage technology companies. The curriculum would need all the typical core classes, but electives that focus on technology leadership.
 
 My research found all sorts of great sources for ideas:
 
@@ -23,13 +23,13 @@ My research found all sorts of great sources for ideas:
 
 ### 1. Foundational Knowledge
 
-*Gather general knowledge of traditional business subjects such as Economics, Finance, Marketing that I would not pickup naturally. Provide myself with a broader foundational base of knowledge.*
+*Gather general knowledge of traditional business subjects such as Economics, Finance, and Marketing that I would not pickup naturally. Provide myself with a broader foundational base of knowledge.*
 
-In one sentence: *If I decided to start a business tomorrow, this preparation lessens the learning curve*.
+In one sentence: *If I decided to start a business tomorrow, this preparation would flatten the learning curve*.
 
 ### 2. Technical Leadership at Scale
 
-*Learn how problems are solved at a larger scale than I need to solve them now. While I've managed teams between up to 25 people, there are new challenges in larger systems and teams. Learn how engineering cultures evolve and learn more of the background and theory on how technology + business strategy defines companies and cultures.*
+*Learn how problems are solved at a larger scale than I need to solve them now. While I've managed teams of up to 25 people, there are new challenges in larger systems and teams. Learn how engineering cultures evolve and learn more of the background and theory on how technology + business strategy defines companies and cultures.*
 
 In one sentence: *Help me become a better manager by expanding my knowledge of new techniques*.
 
