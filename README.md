@@ -25,27 +25,11 @@ My research found all sorts of great sources for ideas:
 
 *Gather general knowledge of traditional business subjects such as Economics, Finance, and Marketing that I would not pickup naturally. Provide myself with a broader foundational base of knowledge.*
 
-In one sentence: *If I decided to start a business tomorrow, this preparation would flatten the learning curve*.
-
 ### 2. Technical Leadership at Scale
 
 *Learn how problems are solved at a larger scale than I need to solve them now. While I've managed teams of up to 25 people, there are new challenges in larger systems and teams. Learn how engineering cultures evolve and learn more of the background and theory on how technology + business strategy defines companies and cultures.*
 
-In one sentence: *Help me become a better manager by expanding my knowledge of new techniques*.
-
-### 3. Have the Curriculum Reflect my Experience to Date
-
-*Nothing against MBA programs, but I believe they aren't as cross-functional as they should be. This isn't a problem with just business schools, it is a general education problem.*
-
-> "There is no such skill called "business". Instead study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.
-
--- Naval Ravikant
-
-*So: have the curriculum reflect more diverse interests than typical. In that spirit, the below categories are informally-defined. Don't think library, think used bookstore.*
-
 ## Curriculum
-
-
 
 **Starting Points**
 
