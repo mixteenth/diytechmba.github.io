@@ -222,6 +222,7 @@ My research found all sorts of great sources for ideas:
 - [X] [That Will Never Work](https://amzn.to/2E51iYJ)
 - [X] [Powerful: Building a Culture of Freedom and Responsibility](https://amzn.to/3mrLz7q)
 - [X] [Eat Mor Chikin: Inspire More People: Doing Business the Chick-fil-A Way](https://amzn.to/3c0Caip)
+- [X] [Uncanny Valley: A Memoir](https://amzn.to/3417MAE)
 - [ ] [Shoe Dog](https://amzn.to/3c2EJAf)
 - [ ] [Principles](https://amzn.to/3kgSBK4)
 
