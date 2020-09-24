@@ -123,12 +123,12 @@ In one sentence: *Help me become a better manager by expanding my knowledge of n
 - [X] [Zero to One](https://amzn.to/2ZIkjYB)
 - [X] [High Growth Handbook](https://amzn.to/32Ak0B0)
 - [X] [The Hard Thing about Hard Things](https://amzn.to/3c3zVe7)
+- [X] ] [The Founder's Mentality](https://amzn.to/2FAByUY)
 - [ ] [Business Model Generation](https://amzn.to/32B1HLZ)
 - [ ] [Blitzscaling](https://amzn.to/2Rwix8c)
 - [ ] [Mastering the Rockefeller Habits](https://amzn.to/3iBlG2u)
 - [ ] [Scaling Up](https://amzn.to/3hC0U1v)
 - [ ] [Scaling Teams](https://amzn.to/2Rukjqt)
-- [ ] [The Founder's Mentality](https://amzn.to/2FAByUY)
 
 **Product Management**
 
