@@ -19,16 +19,6 @@ My research found all sorts of great sources for ideas:
 - [Basecamp MBA list](https://m.signalvnoise.com/the--basecamp-mba--reading-list/)
 - My own judgement.
 
-## Goals
-
-### 1. Foundational Knowledge
-
-*Gather general knowledge of traditional business subjects such as Economics, Finance, and Marketing that I would not pickup naturally. Provide myself with a broader foundational base of knowledge.*
-
-### 2. Technical Leadership at Scale
-
-*Learn how problems are solved at a larger scale than I need to solve them now. While I've managed teams of up to 25 people, there are new challenges in larger systems and teams. Learn how engineering cultures evolve and learn more of the background and theory on how technology + business strategy defines companies and cultures.*
-
 ## Curriculum
 
 **Starting Points**
@@ -37,7 +27,7 @@ My research found all sorts of great sources for ideas:
 - [ ] [Ten-Day MBA](https://amzn.to/3kjjbm0)
 - [ ] [What They Don't Teach You at Harvard Business School](https://amzn.to/33yzLHL)
 
-**Pure Leadership**
+**Leadership**
 
 - [X] [High Output Management](https://amzn.to/3ixCY0s)
 - [X] [What You Do is Who You Are](https://amzn.to/2Qyx42D)
@@ -107,7 +97,7 @@ My research found all sorts of great sources for ideas:
 - [X] [Zero to One](https://amzn.to/2ZIkjYB)
 - [X] [High Growth Handbook](https://amzn.to/32Ak0B0)
 - [X] [The Hard Thing about Hard Things](https://amzn.to/3c3zVe7)
-- [X] ] [The Founder's Mentality](https://amzn.to/2FAByUY)
+- [X] [The Founder's Mentality](https://amzn.to/2FAByUY)
 - [ ] [Business Model Generation](https://amzn.to/32B1HLZ)
 - [ ] [Blitzscaling](https://amzn.to/2Rwix8c)
 - [ ] [Mastering the Rockefeller Habits](https://amzn.to/3iBlG2u)
@@ -160,7 +150,7 @@ My research found all sorts of great sources for ideas:
 
 **Patrick Lencioni**
 
-*I have special sections for Patrick Lencioni and Gerald Weinberg books. They are category-crossing, though-provoking, solid reads.*
+*I have special sections for Patrick Lencioni and Gerald Weinberg books. They are category-crossing, thought-provoking, solid reads.*
 
 - [X] [The Motive](https://amzn.to/3kiOZHE)
 - [X] [The Ideal Team Player](https://amzn.to/377PDky)
