@@ -213,6 +213,7 @@ My research found all sorts of great sources for ideas:
 - [X] [Powerful: Building a Culture of Freedom and Responsibility](https://amzn.to/3mrLz7q)
 - [X] [Eat Mor Chikin: Inspire More People: Doing Business the Chick-fil-A Way](https://amzn.to/3c0Caip)
 - [X] [Uncanny Valley: A Memoir](https://amzn.to/3417MAE)
+- [X] [The Almanack of Naval](https://amzn.to/342YF2l)
 - [ ] [Shoe Dog](https://amzn.to/3c2EJAf)
 - [ ] [Principles](https://amzn.to/3kgSBK4)
 
@@ -221,9 +222,9 @@ My research found all sorts of great sources for ideas:
 *There are a million ways to keep up to date, here are a few.*
 
 - Y Combinator's [Startup School Library](https://www.startupschool.org/library)
+- [Stripe's Atlas Guides](https://stripe.com/atlas/guides)
 - Harvard Busines Review's [10 Must-Read series](https://store.hbr.org/books/hbr-10-must-read-series/)
 - [Increment Magazine](https://increment.com/)
-- Matt Levine's [Money Stuff column](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine)
-- [Stripe's Atlas Guides](https://stripe.com/atlas/guides) *Very startup-focused*.
+- Matt Levine's [Money Stuff column](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) 
 - [Stratechery](https://stratechery.com), especially the [concepts](https://stratechery.com/concepts/).
 - [YouTube MBA](https://docs.google.com/spreadsheets/d/11oYJlQWQVqCI6mxBjy8ltd7l5uEBEI3ufVf0AufCaCA/edit#gid=0)
