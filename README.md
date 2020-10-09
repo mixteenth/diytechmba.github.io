@@ -161,7 +161,7 @@ My research found all sorts of great sources for ideas:
 - [X] [The Five Temptations of a CEO](https://amzn.to/2QhkIvr)
 - [X] [Getting Naked](https://amzn.to/2t0v0Iy)
 - [X] [The Truth about Employee Engagement](https://amzn.to/2FFDdIs)
-- [ ] [The Advantage](https://amzn.to/3hC3ZhY)
+- [X] [The Advantage](https://amzn.to/3hC3ZhY)
 
 **Gerald Weinberg**
 
