@@ -229,3 +229,22 @@ My research found all sorts of great sources for ideas:
 - Matt Levine's [Money Stuff column](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) 
 - [Stratechery](https://stratechery.com), especially the [concepts](https://stratechery.com/concepts/).
 - [YouTube MBA](https://docs.google.com/spreadsheets/d/11oYJlQWQVqCI6mxBjy8ltd7l5uEBEI3ufVf0AufCaCA/edit#gid=0)
+
+## Ongoing Practice
+
+*There are a million ways to keep up to date, here are a few.*
+
+- Y Combinator's [Startup School Library](https://www.startupschool.org/library)
+- [Stripe's Atlas Guides](https://stripe.com/atlas/guides)
+- Harvard Business Review's [10 Must-Read series](https://store.hbr.org/books/hbr-10-must-read-series/)
+- [Increment Magazine](https://increment.com/)
+- [ThoughtWork's Radar](https://www.thoughtworks.com/radar)
+- Matt Levine's [Money Stuff column](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) 
+- [Stratechery](https://stratechery.com), especially the [concepts](https://stratechery.com/concepts/).
+- [YouTube MBA](https://docs.google.com/spreadsheets/d/11oYJlQWQVqCI6mxBjy8ltd7l5uEBEI3ufVf0AufCaCA/edit#gid=0)
+
+## Contribute
+
+Feel free to send me a pull request with other suggestions:
+
+[diytechmba on github](https://github.com/mixteenth/diytechmba)
