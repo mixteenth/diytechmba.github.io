@@ -17,7 +17,7 @@ My research found all sorts of great sources for ideas:
 - [Personal MBA book and reading list](https://personalmba.com/).
 - [Seth Godin's altMBA](https://altmba.com/) [unofficial book list](https://www.goodreads.com/shelf/show/altmba).
 - [Basecamp MBA list](https://m.signalvnoise.com/the--basecamp-mba--reading-list/)
-- My own judgement.
+- My own (flawed) judgement.
 
 ## Curriculum
 
@@ -38,6 +38,10 @@ My research found all sorts of great sources for ideas:
 - [ ] [Small Unit Leadership](https://amzn.to/3mkZzQp)
 - [ ] [The Effective Executive](https://amzn.to/2E3OmlL)
 - [ ] [The 21 Irrefutable Laws of Leadership](https://amzn.to/32zNLSd)
+- [ ] [Leaders Eat Last](https://amzn.to/3kfYreA)
+- [ ] [Start with Why](https://amzn.to/36tvPtw)
+- [ ] [Leadership](https://amzn.to/3lhfi1K)
+
 
 **Technical Leadership**
 
@@ -103,6 +107,7 @@ My research found all sorts of great sources for ideas:
 - [ ] [Mastering the Rockefeller Habits](https://amzn.to/3iBlG2u)
 - [ ] [Scaling Up](https://amzn.to/3hC0U1v)
 - [ ] [Scaling Teams](https://amzn.to/2Rukjqt)
+- [ ] [Traction](https://amzn.to/36l0Ak9)
 
 **Product Management**
 
