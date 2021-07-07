@@ -184,12 +184,12 @@ My research found all sorts of great sources for ideas:
 - [X] [Mindset](https://amzn.to/3mrkYXR)
 - [X] [Flourish: A Visionary New Understanding of Happiness and Well-Being](https://amzn.to/3krpMe6)
 - [X] [Managing Oneself](https://amzn.to/3kvRLJK)
-- [ ] [Range](https://amzn.to/2MuCB92)
+- [X] [Atomic Habits](https://amzn.to/2ZFOa3P)
+- [X] [Range](https://amzn.to/2MuCB92)
 - [ ] [Subliminal: How Your Unconscious Mind Rules Your Behavior](https://amzn.to/39dEPDl)
 - [ ] [Why Are We Yelling?: The Art of Productive Disagreement](https://amzn.to/3mqLzo0)
 - [ ] [Radical Compassion](https://amzn.to/3c2B9pP)
 - [ ] [Emotional Agility](https://amzn.to/3iB7J4O)
-- [ ] [Atomic Habits](https://amzn.to/2ZFOa3P)
 - [ ] [What Got You Here Won't Get You There](https://amzn.to/3kiXnqA)
 - [ ] [No Hard Feelings: The Secret Power of Embracing Emotions at Work](https://amzn.to/3kmXiCh)
 
@@ -221,19 +221,6 @@ My research found all sorts of great sources for ideas:
 - [X] [The Almanack of Naval](https://amzn.to/342YF2l)
 - [ ] [Shoe Dog](https://amzn.to/3c2EJAf)
 - [ ] [Principles](https://amzn.to/3kgSBK4)
-
-## Ongoing Practice
-
-*There are a million ways to keep up to date, here are a few.*
-
-- Y Combinator's [Startup School Library](https://www.startupschool.org/library)
-- [Stripe's Atlas Guides](https://stripe.com/atlas/guides)
-- Harvard Busines Review's [10 Must-Read series](https://store.hbr.org/books/hbr-10-must-read-series/)
-- [Increment Magazine](https://increment.com/)
-- [ThoughtWork's Radar](https://www.thoughtworks.com/radar)
-- Matt Levine's [Money Stuff column](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) 
-- [Stratechery](https://stratechery.com), especially the [concepts](https://stratechery.com/concepts/).
-- [YouTube MBA](https://docs.google.com/spreadsheets/d/11oYJlQWQVqCI6mxBjy8ltd7l5uEBEI3ufVf0AufCaCA/edit#gid=0)
 
 ## Ongoing Practice
 
