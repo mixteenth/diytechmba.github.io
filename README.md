@@ -186,7 +186,7 @@ My research found all sorts of great sources for ideas:
 - [X] [Managing Oneself](https://amzn.to/3kvRLJK)
 - [X] [Atomic Habits](https://amzn.to/2ZFOa3P)
 - [X] [Range](https://amzn.to/2MuCB92)
-- [ ] [Subliminal: How Your Unconscious Mind Rules Your Behavior](https://amzn.to/39dEPDl)
+- [X] [Subliminal: How Your Unconscious Mind Rules Your Behavior](https://amzn.to/39dEPDl)
 - [ ] [Why Are We Yelling?: The Art of Productive Disagreement](https://amzn.to/3mqLzo0)
 - [ ] [Radical Compassion](https://amzn.to/3c2B9pP)
 - [ ] [Emotional Agility](https://amzn.to/3iB7J4O)
