@@ -200,11 +200,12 @@ My research found all sorts of great sources for ideas:
 - [X] [The Obstacle is the Way](https://amzn.to/3iB68fk)
 - [X] [Ego is the Enemy](https://amzn.to/3c06s4P)
 - [X] [Stillness is the Key](https://amzn.to/32zNwa4)
+- [X] [The Art of Learning](https://amzn.to/32woLeL)
 - [ ] [The Great Mental Models: Vol 1](https://amzn.to/2Fz7tEX)
 - [ ] [Superthinking](https://amzn.to/2FDEmA8)
 - [ ] [Thinking: Fast and Slow](https://amzn.to/32yUFr3)
 - [ ] [Superforecasting](https://amzn.to/2FoKcFZ)  
-- [ ] [The Art of Learning](https://amzn.to/32woLeL)
+
 
 **Case Studies / Other's Experiences**
 
