@@ -147,6 +147,9 @@ My research found all sorts of great sources for ideas:
 
 - [X] [Code Complete](https://amzn.to/2Rsm0oe)
 - [X] [Release It](https://amzn.to/3kiu8Er)
+- [X] [The Pragmatic Programmer](https://amzn.to/2YFt4or)
+- [X] [Code Complete](https://amzn.to/2VABigu)
+- [X] [Design Patterns](https://amzn.to/3lhRk7O)
 - [ ] [Godel, Escher, Bach](https://amzn.to/2FwA6To)
 - [ ] [Code](https://amzn.to/3izUMbs)
 - [ ] [Beautiful Code](https://amzn.to/2ZG3Uni)
@@ -220,6 +223,8 @@ My research found all sorts of great sources for ideas:
 - [X] [Eat Mor Chikin: Inspire More People: Doing Business the Chick-fil-A Way](https://amzn.to/3c0Caip)
 - [X] [Uncanny Valley: A Memoir](https://amzn.to/3417MAE)
 - [X] [The Almanack of Naval](https://amzn.to/342YF2l)
+- [X] [The Soul of A New Machine](https://amzn.to/3z39gb7)
+- [X] [Coders at Work](https://amzn.to/3nx1AvT)
 - [ ] [Shoe Dog](https://amzn.to/3c2EJAf)
 - [ ] [Principles](https://amzn.to/3kgSBK4)
 
