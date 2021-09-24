@@ -225,7 +225,7 @@ My research found all sorts of great sources for ideas:
 - [X] [The Almanack of Naval](https://amzn.to/342YF2l)
 - [X] [The Soul of A New Machine](https://amzn.to/3z39gb7)
 - [X] [Coders at Work](https://amzn.to/3nx1AvT)
-- [ ] [Shoe Dog](https://amzn.to/3c2EJAf)
+X] [Shoe Dog](https://amzn.to/3c2EJAf)
 - [ ] [Principles](https://amzn.to/3kgSBK4)
 
 ## Ongoing Practice
