@@ -66,7 +66,7 @@ My research found all sorts of great sources for ideas:
 - [ ] [Economics in One Lesson](https://amzn.to/33DCXC4)
 - [ ] [Naked Economics: Undressing the Dismal Science](https://amzn.to/33GQ1X8)
 
-**Finance**
+**Accounting**
 
 - [ ] [Accounting Made Simple](https://amzn.to/3c2y09z)
 - [ ] [Simple Numbers, Straight Talk, Big Profits](https://amzn.to/33u4aah)
