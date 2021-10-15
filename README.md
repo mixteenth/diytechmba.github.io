@@ -1,4 +1,4 @@
-# DIY Tech MBA
+# Do It Yourself Technology MBA
 
 ![Bookshelf](img/bookshelf.jpg)
 
