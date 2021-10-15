@@ -240,9 +240,3 @@ X] [Shoe Dog](https://amzn.to/3c2EJAf)
 - Matt Levine's [Money Stuff column](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) 
 - [Stratechery](https://stratechery.com), especially the [concepts](https://stratechery.com/concepts/).
 - [No Mercy No Malice](https://www.profgalloway.com/)
-
-## Contribute
-
-Feel free to send me a pull request with other suggestions:
-
-[diytechmba on github](https://github.com/mixteenth/diytechmba)
