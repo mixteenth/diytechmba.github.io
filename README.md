@@ -140,6 +140,7 @@ My research found all sorts of great sources for ideas:
 - [X] [Soul of a New Machine](https://amzn.to/35H6WvC)
 - [X] [Ruined by Design](https://amzn.to/2Mrc4cx)
 - [X] [The Circle](https://amzn.to/3hMhqfA)
+- [X] [The Every](https://amzn.to/3HNnMt3)
 - [ ] [Technopology](https://amzn.to/2ZEQYy6)
 - [ ] [A People’s History of Computing in the United States](https://amzn.to/35G4jdc)
 
@@ -225,7 +226,7 @@ My research found all sorts of great sources for ideas:
 - [X] [The Almanack of Naval](https://amzn.to/342YF2l)
 - [X] [The Soul of A New Machine](https://amzn.to/3z39gb7)
 - [X] [Coders at Work](https://amzn.to/3nx1AvT)
-X] [Shoe Dog](https://amzn.to/3c2EJAf)
+- [X] [Shoe Dog](https://amzn.to/3c2EJAf)
 - [ ] [Principles](https://amzn.to/3kgSBK4)
 
 ## Ongoing Practice
