@@ -151,7 +151,7 @@ My research found all sorts of great sources for ideas:
 - [X] [The Pragmatic Programmer](https://amzn.to/2YFt4or)
 - [X] [Code Complete](https://amzn.to/2VABigu)
 - [X] [Design Patterns](https://amzn.to/3lhRk7O)
-- [ ] [Godel, Escher, Bach](https://amzn.to/2FwA6To)
+- [X] [Godel, Escher, Bach](https://amzn.to/2FwA6To)
 - [ ] [Code](https://amzn.to/3izUMbs)
 - [ ] [Beautiful Code](https://amzn.to/2ZG3Uni)
 - [ ] [Site Reliability Engineering](https://amzn.to/35DRiRp)
