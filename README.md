@@ -4,11 +4,11 @@
 
 ## Introduction
 
-I reached a point in my career a few years ago where I wished I *had* an MBA, but it was difficult to *get* an MBA. It would be hard to stop working and get one, hard and expensive to find the time to do a part-time one, and I wasn't working for a place that would pay for one at the time. 
+I reached a point in my career a few years ago where I wished I *had* an MBA, but it was difficult to **get** an MBA. It would be hard to stop working and get one, hard and expensive to find the time to do a part-time one myself, and I wasn't working for a place that would pay for one at the time.
 
-I don't need the structure of an MBA program to provide motivation, and I'm not afraid to read. So I decided instead to just focus my reading practice towards an MBA curriculum. 
+I don't need the structure of an MBA program to provide motivation, and I'm not afraid to read. I decided instead to just focus my reading practice towards an MBA curriculum.
 
-My focus was on a *Tech* MBA which to me means learning about how to start, grow, and manage technology companies. The curriculum would need all the typical core classes, but electives that focus on technology leadership.
+My focus was on a **Tech** MBA which to me means learning about how to start, grow, and manage technology companies. The curriculum would need all the typical core classes, but electives that focus on technology leadership.
 
 My research found all sorts of great sources for ideas:
 
@@ -16,7 +16,7 @@ My research found all sorts of great sources for ideas:
 ).
 - [Personal MBA book and reading list](https://personalmba.com/).
 - [Seth Godin's altMBA](https://altmba.com/) [unofficial book list](https://www.goodreads.com/shelf/show/altmba).
-- [Basecamp MBA list](https://m.signalvnoise.com/the--basecamp-mba--reading-list/)
+- [Basecamp MBA list](https://basecamp.com/articles/basecamp-mba-reading-list)
 - My own (flawed) judgement.
 
 ## Curriculum
@@ -123,7 +123,7 @@ My research found all sorts of great sources for ideas:
 - [Hackers & Painters](https://amzn.to/2RqTDah)
 - [How Design Moves the World](https://amzn.to/3iA8ZVE)
 - [Myths of Innovation](https://amzn.to/32uvuG2)
-- [The Dance of the Possible: the mostly honest completely irreverent guide to creativity](https://amzn.to/2E2uCio)
+- [The Dance of the Possible](https://amzn.to/2E2uCio)
 - [Steal like an Artist](https://amzn.to/3mjnP5n)
 - [War of Art](https://amzn.to/3hv8A5L)
 - [The Best Interface is No Interface](https://amzn.to/2FErb22)
@@ -208,7 +208,7 @@ My research found all sorts of great sources for ideas:
 - [The Great Mental Models: Vol 1](https://amzn.to/2Fz7tEX)
 - [Superthinking](https://amzn.to/2FDEmA8)
 - [Thinking: Fast and Slow](https://amzn.to/32yUFr3)
-- [Superforecasting](https://amzn.to/2FoKcFZ)  
+- [Superforecasting](https://amzn.to/2FoKcFZ)
 
 
 **Case Studies / Other's Experiences**
@@ -238,6 +238,6 @@ My research found all sorts of great sources for ideas:
 - Harvard Business Review's [10 Must-Read series](https://store.hbr.org/books/hbr-10-must-read-series/)
 - [Increment Magazine](https://increment.com/)
 - [ThoughtWork's Radar](https://www.thoughtworks.com/radar)
-- Matt Levine's [Money Stuff column](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) 
+- Matt Levine's [Money Stuff column](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine)
 - [Stratechery](https://stratechery.com), especially the [concepts](https://stratechery.com/concepts/).
 - [No Mercy No Malice](https://www.profgalloway.com/)
