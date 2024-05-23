@@ -4,11 +4,11 @@
 
 ## Introduction
 
-I reached a point in my career a few years ago where I wished I *had* an MBA, but it was difficult to **get** an MBA. It would be hard to stop working and get one, hard and expensive to find the time to do a part-time one myself, and I wasn't working for a place that would pay for one at the time.
+I reached a point in my career a few years ago where I wished I *had* an MBA, but it was difficult to *get* an MBA. It would be hard to stop working and get one, hard and expensive to find the time to do a part-time one myself, and I wasn't working for a place that would pay for one at the time.
 
-I don't need the structure of an MBA program to provide motivation, and I'm not afraid to read. I decided instead to just focus my reading practice towards an MBA curriculum.
+I don't need the structure of an MBA program to provide motivation, and I'm not afraid to read, so instead I decided to focus my reading practice towards an MBA curriculum.
 
-My focus was on a **Tech** MBA which to me means learning about how to start, grow, and manage technology companies. The curriculum would need all the typical core classes, but electives that focus on technology leadership.
+My focus was on a **Technical MBA** which to me means learning about how to start, grow, and manage technology companies. The curriculum would need all the typical core classes, but electives that focus on technology leadership.
 
 My research found all sorts of great sources for ideas:
 
@@ -21,7 +21,7 @@ My research found all sorts of great sources for ideas:
 
 ## Curriculum
 
-**Starting Points**
+**Starting Points**: *if you are looking for "cliff notes" style shortcuts*
 
 - [The Personal MBA](https://amzn.to/3kjX8eN)
 - [Ten-Day MBA](https://amzn.to/3kjjbm0)
@@ -41,7 +41,6 @@ My research found all sorts of great sources for ideas:
 - [Leaders Eat Last](https://amzn.to/3kfYreA)
 - [Start with Why](https://amzn.to/36tvPtw)
 - [Leadership](https://amzn.to/3lhfi1K)
-
 
 **Technical Leadership**
 
@@ -157,9 +156,11 @@ My research found all sorts of great sources for ideas:
 - [Site Reliability Engineering](https://amzn.to/35DRiRp)
 - [Domain-Driven Design](https://amzn.to/2RHpaEJ)
 
-**Patrick Lencioni**
+**Lencioni and Weinberg**
 
 *I have special sections for Patrick Lencioni and Gerald Weinberg books. They are category-crossing, thought-provoking, solid reads.*
+
+**Patrick Lencioni**
 
 - [The Motive](https://amzn.to/3kiOZHE)
 - [The Ideal Team Player](https://amzn.to/377PDky)
@@ -209,7 +210,6 @@ My research found all sorts of great sources for ideas:
 - [Superthinking](https://amzn.to/2FDEmA8)
 - [Thinking: Fast and Slow](https://amzn.to/32yUFr3)
 - [Superforecasting](https://amzn.to/2FoKcFZ)
-
 
 **Case Studies / Other's Experiences**
 
